@@ -1,0 +1,14 @@
+D:\Howard\jsTesting\jsTesting\bin\Debug\jsTesting.dll
+D:\Howard\jsTesting\jsTesting\bin\Debug\jsTesting.pdb
+D:\Howard\jsTesting\jsTesting\obj\Debug\jsTesting.dll
+D:\Howard\jsTesting\jsTesting\obj\Debug\jsTesting.pdb
+D:\Howard\angularjsTestDemo\jsTesting\bin\Debug\jsTesting.dll
+D:\Howard\angularjsTestDemo\jsTesting\bin\Debug\jsTesting.pdb
+D:\Howard\angularjsTestDemo\jsTesting\obj\Debug\jsTesting.csprojResolveAssemblyReference.cache
+D:\Howard\angularjsTestDemo\jsTesting\obj\Debug\jsTesting.dll
+D:\Howard\angularjsTestDemo\jsTesting\obj\Debug\jsTesting.pdb
+D:\Howard\angularjsTest\jsTesting\bin\Debug\jsTesting.dll
+D:\Howard\angularjsTest\jsTesting\bin\Debug\jsTesting.pdb
+D:\Howard\angularjsTest\jsTesting\obj\Debug\jsTesting.csprojResolveAssemblyReference.cache
+D:\Howard\angularjsTest\jsTesting\obj\Debug\jsTesting.dll
+D:\Howard\angularjsTest\jsTesting\obj\Debug\jsTesting.pdb
