@@ -1,5 +1,5 @@
 ﻿/// <reference path="../../webtest/scripts/angular.min.js" />
-/// <reference path="../../webtest/scripts/angular-mocks.js" />
+/// <reference path="../scripts/angular-mocks.js" />
 /// <reference path="../../webtest/controler/passwordControler.js" />
 describe('PasswordController', function () {
     beforeEach(module('app'));
