@@ -1,5 +1,5 @@
 # AngularjsTesting
-angularjs1 Testing
+angularjs Testing
 
 vs 2015 tool install
 Chutzpah Test Runner Context Menu Extension
